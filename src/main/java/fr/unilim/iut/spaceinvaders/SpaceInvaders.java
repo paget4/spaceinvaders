@@ -1,4 +1,6 @@
 package fr.unilim.iut.spaceinvaders;
+import fr.unilim.spaceinvaders.utils.HorsEspaceJeuException;
+
 
 public class SpaceInvaders {
 
@@ -16,10 +18,16 @@ Vaisseau vaisseau;
 	}
 	
 	public void positionnerUnNouveauVaisseau(int x, int y) {
-		if (x >= longueur)
+		
+		if ((x<0) || (x >= longueur))
 			throw new HorsEspaceJeuException("Vous êtes en dehors de l'espace jeu");
 		
-		this.vaisseau = new Vaisseau(x, y);
+		if ((y<0) || (y >= hauteur))
+			throw new HorsEspaceJeuException("Vous êtes en dehors de l'espace jeu");
+	
+		vaisseau = new Vaisseau(x, y); 
+
+
 	}
 	
 	@Override
