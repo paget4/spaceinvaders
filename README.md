@@ -1,6 +1,3 @@
 # spaceinvaders
 
-
-semaine 1
-
-# semaine 2
+##Fonctionnalité 1
