@@ -4,7 +4,18 @@
 
 ### Sprints et fonctionnalités réalisées
 
-#### fonctionnalité n°1
+#### Creer un espace de jeu
 
-- Positionner un vaisseau dans l'espace de jeu : Un nouveau doit être créé. Le vaisseau doit être positionné à des coordonées transmise au préalable
+Creer un espace de jeu vide en 2D
+
+#### fonctionnalité n°2 : postionner un vaisseau dans l'espace
+
+Un nouveau vaisseau doit être créé. Le vaisseau doit être positionné à des coordonées transmise au préalable 
+
+### Fonctionnalité en cours d'implémentation
+
+Positionner un vaisseau dans l'espace de jeu
+
+
+
  
