@@ -1,5 +1,10 @@
 # spaceinvaders
 
-## Fonctionnalité 1
+## Semaine 1 du 26 au 30 avril
 
-### Deplacer le vaisseau dans l'espace
+### Sprints et fonctionnalités réalisées
+
+### fonctionnalité n°1
+
+- Positionner un vaisseau dans l'espace de jeu 
+ ejsqkdfj
