@@ -6,6 +6,4 @@
 
 #### fonctionnalité n°1
 
-- Positionner un vaisseau dans l'espace de jeu
-es
-dsdf
+- Positionner un vaisseau dans l'espace de jeu \n djsf
