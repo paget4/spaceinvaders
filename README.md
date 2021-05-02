@@ -15,7 +15,7 @@ Un nouveau vaisseau doit être créé. Le vaisseau doit être positionné à des
 ### Fonctionnalité en cours d'implémentation
 
 Positionner un vaisseau dans l'espace de jeu
-
+jd
 
 
  
