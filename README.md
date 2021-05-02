@@ -1,3 +1,3 @@
 # spaceinvaders
 
-##Fonctionnalité 1
+## Fonctionnalité 1
