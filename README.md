@@ -1,4 +1,4 @@
-# spaceinvaders
+# Spaceinvaders
 
 ## Semaine 1 du 26 au 30 avril
 
