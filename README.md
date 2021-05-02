@@ -6,10 +6,10 @@
 
 #### fonctionnalité n°1 : Déplacer un vaisseau dans l'espace
 
-- story 1: creer un espace de jeu 
+- Story 1: creer un espace de jeu 
 Creer un espace de jeu vide en 2D
 
-- story n°2 : postionner un vaisseau dans l'espace
+- Story n°2 : postionner un vaisseau dans l'espace
 Un nouveau vaisseau doit être créé. 
 Le vaisseau doit être positionné à des coordonées transmise au préalable 
 
