@@ -17,6 +17,7 @@ Le vaisseau doit être positionné à des coordonées transmise au préalable
 aucune
 
 ### Diagramme de classe
+ssjd
 
 
 
