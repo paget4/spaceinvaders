@@ -6,7 +6,7 @@
 
 #### fonctionnalité n°1 : Déplacer un vaisseau dans l'espace
 
-- Story 1: creer un espace de jeu 
+- Story 1 : creer un espace de jeu 
 Creer un espace de jeu vide en 2D
 
 - Story n°2 : postionner un vaisseau dans l'espace
