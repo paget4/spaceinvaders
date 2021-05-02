@@ -18,6 +18,14 @@ aucune
 
 ### Diagramme de classe
 
+### Nuages de mots
+
+### Difficultés rencontrées
+Aucune
+
+### Remarques diverses 
+Aucune
+
 
 
 
