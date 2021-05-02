@@ -6,5 +6,4 @@
 
 #### fonctionnalité n°1
 
-- Positionner un vaisseau dans l'espace de jeu 
-djfs
+-Positionner un vaisseau dans l'espace de jeu 
