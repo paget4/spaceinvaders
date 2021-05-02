@@ -4,7 +4,7 @@
 
 ### Sprints et fonctionnalités réalisées
 
-### fonctionnalité n°1
+#### fonctionnalité n°1
 
 - Positionner un vaisseau dans l'espace de jeu 
- ejsqkdfj
+- kdsfjs
