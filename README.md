@@ -16,7 +16,7 @@ Le vaisseau doit être positionné à des coordonées transmise au préalable
 ### Fonctionnalité en cours d'implémentation
 aucune
 
-### Diagramme de classe
+! [Diagramme de classe semaine 1](images/diagre)
 
 ### Nuages de mots
 
