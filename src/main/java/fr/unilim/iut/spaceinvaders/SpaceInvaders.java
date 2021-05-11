@@ -34,7 +34,7 @@ Vaisseau vaisseau;
 		return recupererEspaceJeuDansChaineASCII();
 	}
 
-	private String recupererEspaceJeuDansChaineASCII() {
+	public String recupererEspaceJeuDansChaineASCII() {
 		StringBuilder espaceDeJeu = new StringBuilder();
 		for (int y = 0; y < hauteur; y++) {
 			for (int x = 0; x < longueur; x++) {				
@@ -60,5 +60,9 @@ Vaisseau vaisseau;
 
 	private boolean aUnVaisseau() {
 		return vaisseau!=null;
+	}
+
+   	public void deplacerVaisseauVersLaDroite() {
+        if (vaisseau.abscisse()< (longueur-1)) vaisseau.seDeplacerVersLaDroite();
 	}
 }
