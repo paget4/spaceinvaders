@@ -49,7 +49,7 @@ Dimensionner le vaisseau
 
 ### Nuages de mots
 
-![nuage de mots semaine 2](/images/nuage_de_mot_semaine_2.png)
+![nuage de mots semaine 2](/images/nuages_de_mot_semaine_2.png)
 
 ### Difficultés rencontrées
 Pour la story 4 la condition pour arreter le déplacement du vaisseau vers la gauche m'a poser des difficulté car l'axe des ordonnées est inversé par rapport à la modélisation classique
