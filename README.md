@@ -20,6 +20,8 @@ aucune
 
 ### Nuages de mots
 
+![nuage de mot semaine 1](/images/nuage_de_mot_semaine_1.png)
+
 ### Difficultés rencontrées
 Aucune
 
