@@ -44,7 +44,7 @@ Aucune
 Dimensionner le vaisseau
 
 ### Diagramme de classe
-![Diagramme de classe semaine 2](/images/diagramme_de_classe_semaine2.pn)
+![Diagramme de classe semaine 2](/images/diagramme_de_classe_semaine2.png)
 
 
 ### Nuages de mots
