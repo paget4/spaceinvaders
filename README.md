@@ -30,7 +30,7 @@ Aucune
 ### Remarques diverses 
 Aucune
 
-# Semaine 2 du 10 au 16 avril
+# Semaine 2 du 10 au 16 mai
 
 ## Sprints et fonctionnalités réalisées
 
