@@ -82,8 +82,11 @@ Vaisseau vaisseau;
 	}
 
 	public void deplacerVaisseauVersLaGauche() {
-		if (vaisseau.abscisseLaPlusAGauche() > 0) vaisseau.seDeplacerVersLaGauche();
-		
+		if (vaisseau.abscisseLaPlusAGauche() > 0) {
+		 vaisseau.seDeplacerVersLaGauche();
 	}
 	
+	
+}
+
 }
