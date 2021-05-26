@@ -5,10 +5,10 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>fr.unilim.iut</groupId>
-  <artifactId>spaceinvaders</artifactId>
+  <artifactId>refactoringexemple</artifactId>
   <version>0.0.1-SNAPSHOT</version>
 
-  <name>spaceinvaders</name>
+  <name>refactoringexemple</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
