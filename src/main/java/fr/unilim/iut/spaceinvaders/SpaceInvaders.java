@@ -18,7 +18,7 @@ Vaisseau vaisseau;
 		this.hauteur = hauteur;
 	}
 	
-	public void positionnerUnNouveauVaisseau(Dimension dimension, Position position) {
+	public void positionnerUnNouveauVaisseau(Dimension dimension, Position position, int vitesse) {
 			
 		int x = position.abscisse();
 		int y = position.ordonnee();
@@ -35,7 +35,7 @@ Vaisseau vaisseau;
 		if (!estDansEspaceJeu(x, y - hauteurVaisseau + 1))
 			throw new DebordementEspaceJeuException("Le vaisseau déborde de l'espace jeu vers le bas à cause de sa hauteur");
 
-		vaisseau = new Vaisseau(longueurVaisseau, hauteurVaisseau);
+		vaisseau = new Vaisseau(dimension, position,vitesse);
 		vaisseau.positionner(x, y);
 	}
 	
