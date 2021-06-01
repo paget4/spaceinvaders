@@ -83,3 +83,35 @@ Difficulté à push à la fin de la séance, problème avec le merging.
 ### Remarques diverses 
 aucune
  
+ 
+# Semaine 4 du 24 au 30 mai
+
+## Sprints et Story Réalisées
+
+### Fonctionnalité n°2
+
+- Story n°4 : le vaisseau doit se déplacer vers la gauche tout en tenant compte de sa dimension
+
+### Fonctionnalité n°3
+
+-Story n°1 : nous voulons ajouter dans cette story une vitesse instantanée à notre vaisseau
+-Story n°2 : regler la vitesse du vaisseau. Lors de sa création du vaisseau la valeur souhaitée doit être passée en paramètre du constructeur. La vitesse doit également être modifiable par le biais de getteur et de setteur.
+
+### Fonctionnalité en cours d'implémentation
+
+### Diagramme de classe
+![Diagramme de classe semaine 4](/images/diagramme_de_classe_semaine4.png)
+
+
+### Nuages de mots
+
+![nuage de mots semaine 4](/images/nuages_de_mot_semaine4.png)
+
+
+### Difficultés rencontrés 
+
+aucune
+
+### Remarques diverses
+
+aucune
