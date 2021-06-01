@@ -71,12 +71,10 @@ aucune
 
 ### Diagramme de classe
 
-![Diagramme de classe semaine 1](/images/diagramme_de_classe_semaine_3.png)
 ![Diagramme de classe semaine 3](/images/diagramme_de_classe_semaine_3.png)
 
 ### Nuage de mots
 
-![nuage de mot semaine 1](/images/nuage_de_mot_semaine_3.png)
 ![nuage de mot semaine 3](/images/nuage_de_mot_semaine_3.png)
 
 ### Difficultés rencontrés
