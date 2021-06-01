@@ -57,5 +57,31 @@ Pour la story 4 la condition pour arreter le déplacement du vaisseau vers la ga
 ### Remarques diverses 
 Aucune
 
+# Semaine 3 du 17 au 23 mai
 
+## Sprints et Story Realisées
+
+### Fonctionnalité n°2 : Dimensionner un Vaisseau dans l'espace
+
+- Story 1 : Donner des dimension au vaisseau: Lorsque le vaisseau est dimension, il doit a la fois avoir des paramètres lui permettant de se positionner dans l'espace jeu mais également d'avoir une hauteur.
+
+### Fonctionnalité en cours d'implémentation
+
+aucune
+
+### Diagramme de classe
+
+![Diagramme de classe semaine 1](/images/diagramme_de_classe_semaine_3.png)
+![Diagramme de classe semaine 3](/images/diagramme_de_classe_semaine_3.png)
+
+### Nuage de mots
+
+![nuage de mot semaine 1](/images/nuage_de_mot_semaine_3.png)
+![nuage de mot semaine 3](/images/nuage_de_mot_semaine_3.png)
+
+### Difficultés rencontrés
+
+Difficulté à push à la fin de la séance, problème avec le merging.
+### Remarques diverses 
+aucune
  
